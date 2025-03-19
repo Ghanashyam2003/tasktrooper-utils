@@ -1,0 +1,10 @@
+{
+  "name": "tasktrooper-utils",
+  "version": "1.0.0",
+  "description": "A utility package for task management in TaskTrooper Bot.",
+  "main": "index.js",
+  "keywords": ["task", "bot", "task manager", "task automation"],
+  "author": "Ghanashyam badgujar",
+  "license": "MIT",
+  "files": ["index.js", "utils/"]
+}
